@@ -1,1 +1,1 @@
-# BusinessInsights_InfinityHardware_FMCG_Cat
+# BusinessInsights_FMCG_cat
